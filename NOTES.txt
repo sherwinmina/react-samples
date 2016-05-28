@@ -1,0 +1,36 @@
+SOURCE: https://www.youtube.com/watch?v=0ByoQm-vnYw
+
+1) install broswerify globally (only have to do once)
+sudo npm install -g browserify
+
+2)install babelify
+npm install babelify --save
+
+3) Install watchify
+npm install watchify --save
+
+
+4) install babel preset react
+npm install babel-preset-react --save
+
+
+5) install react
+npm install react --save
+
+
+6) install react-dom
+npm install react-dom --save
+
+
+
+BABEL MODULES:
+1) npm install babel-core babel-loader babel-preset-es2015 babel-preset-react --save-dev
+
+Run WebPack with watching: $ webpack -w
+
+GOOD TUTORIALS:
+https://egghead.io/lessons/react-building-a-react-js-app-up-and-running-with-react-and-webpack
+
+https://www.youtube.com/watch?v=S6OAj5rNr1E
+
+
